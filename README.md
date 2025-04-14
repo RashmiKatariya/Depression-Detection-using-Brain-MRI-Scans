@@ -116,7 +116,7 @@ pip install -r requirements.txt
 python main.py --input path/to/mri/image
 
 ```
-### OutPut
+### 🔽 OutPut
 
 #### Screen 1:
 
